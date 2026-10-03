@@ -18,15 +18,15 @@
 <table>
   <tr>
     <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=JagarlamudiKarthikeyan&show_icons=true&include_all_commits=true&count_private=true&role=DISPLAYED&theme=TENT" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=KURA SIDHARTHA &show_icons=true&include_all_commits=true&count_private=true&role=DISPLAYED&theme=TENT" alt="GitHub Stats" />
     </td>
     <td width="50%" align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JagarlamudiKarthikeyan&layout=compact&theme=TENT&langs_count=8" alt="Top languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?usernameKURA SIDHARTHA &layout=compact&theme=TENT&langs_count=8" alt="Top languages" />
     </td>
   </tr>
   <tr>
     <td align="center" colspan="2">
-      <img src="https://streak-stats.demolab.com?user=JagarlamudiKarthikeyan&theme=TENT&hide_border=true" alt="Contribution streak" />
+      <img src="https://streak-stats.demolab.com?user=KURA SIDHARTHA &theme=TENT&hide_border=true" alt="Contribution streak" />
     </td>
   </tr>
 </table>
@@ -36,18 +36,16 @@
 ##  Achievements
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JagarlamudiKarthikeyan&theme=TENT&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Kurasidhartha &theme=TENT&no-frame=true&no-bg=true&column=7&margin-w=4" alt="Trophies" />
 </div>
 
 ---
 
 ##  About Me
 
--  Currently building **EnergiSense** — an energy usage monitoring dashboard (Python · Flask · SQLite)
--  Learning **DevOps**, cloud infrastructure, and system design
--  Ask me about Python, Flask, SQL, or anything I've broken and fixed
--  Fun fact: I debug by reading the error message *slowly*, on the second try
--  Open to collaboration on beginner-friendly OSS issues
+-  AIM IS TO BUILD OPEN SI SOURCE.
+- CURRENTLY WORKING ON A ECOMMERCE BUSINESS PLATFORM,WHICH HELPS FOR THE CULTURE AND HERITAGE OF PEOPLE OF INDIA 
+-  
 
 ---
 
